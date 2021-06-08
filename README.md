@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rhanon Macley</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Compasso UOL**
+- 🔭 I’m currently working on **...**
 
 - 🌱 I’m currently learning **ReactJS and NodeJs with Typescript**
 
