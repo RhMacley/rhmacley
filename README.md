@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **...**
 
-- 🌱 I’m currently learning **ReactJS and NodeJs with Typescript**
+- 🌱 I’m currently learning **NodeJs with Typescript and PHP**
 
 - 💬 Ask me about **Html, Css, Javascript, NodejS, ReactJs e VueJs**
 
