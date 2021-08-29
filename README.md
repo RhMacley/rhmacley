@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NodeJs with Typescript,PHP and NextJs**
 
-- 💬 Ask me about **Html, Css, Javascript, NodejS, ReactJs e VueJs**
+- 💬 Ask me about **Html, Css, Javascript, ReactJs, NextJS, VueJs, NodeJS, Typescript and PHP**
 
 - 📫 How to reach me **rh.macley@gmail.com**
 
