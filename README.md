@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rhanon Macley</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate Fullstack developer from Brazil</h3>
 
-- 🔭 I’m currently working on **...**
+- 🔭 I’m currently working on **Pontaltech** as a Entry Level Backend Developer 
 
-- 🌱 I’m currently learning **NodeJs with Typescript and PHP**
+- 🌱 I’m currently learning **NodeJs with Typescript,PHP and NextJs**
 
 - 💬 Ask me about **Html, Css, Javascript, NodejS, ReactJs e VueJs**
 
