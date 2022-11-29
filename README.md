@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rhanon Macley</h1>
-<h3 align="center">A passionate Fullstack developer from Brazil</h3>
+<h3 align="center">A passionate Backend developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Pontaltech** as a Entry Level Backend Developer 
+- 🔭 I’m currently working on **Bankly - Banking as a service** as a Software Engineer.
 
-- 🌱 I’m currently learning **NodeJs with Typescript,PHP and NextJs**
+- 🌱 I’m currently improve my skills in **NodeJs with Typescript,NestJS, Databases, Docker,etc...**
 
-- 💬 Ask me about **Html, Css, Javascript, ReactJs, NextJS, VueJs, NodeJS, Typescript and PHP**
+- 💬 Ask me about **Html, Css, Javascript, NodeJS, Typescript**
 
 - 📫 How to reach me **rh.macley@gmail.com**
 
