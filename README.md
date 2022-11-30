@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rhanon Macley</h1>
-<h3 align="center">A passionate Backend developer from Brazil</h3>
+<h3 align="center">A passionate Developer from Brazil</h3>
 
 - 🔭 I’m currently working on **Bankly - Banking as a service** as a Software Engineer.
 
