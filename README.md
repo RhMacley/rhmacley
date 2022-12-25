@@ -31,7 +31,7 @@
       <a href="https://kafka.apache.org/" target="_blank"> <img
         src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" alt="Kafka" width="40" height="40" /> </a> 
         <a href="https://www.rabbitmq.com/" target="_blank"> <img
-          src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" alt="RabbitMQ" width="40" height="80" /> </a> <a
+          src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" alt="RabbitMQ" width="90" height="40" /> </a> <a
     href="https://www.w3.org/html/" target="_blank"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
