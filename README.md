@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Bankly - Banking as a service** as a Software Engineer.
 
-- 🌱 I’m currently improve my skills in **NodeJs with Typescript,NestJS, Databases, Docker,etc...**
+- 🌱 I’m currently improve my skills in **NodeJs with Typescript,NestJS, AWS, Cloud, Devops, etc...**
 
 - 💬 Ask me about **Html, Css, Javascript, NodeJS, Typescript**
 
